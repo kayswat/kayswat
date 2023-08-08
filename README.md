@@ -1,5 +1,5 @@
 - 👋 Hi, I am @kayswat
-- 👀 I am a Junior FrontEnd Dev
+- 👀 I am a FrontEnd Developer
 - 📫 You can reach me on kazeemtoheeb@gmail.com
 
 <!---
